@@ -3,7 +3,7 @@ Welcome to my Python Projects repository
 
 In this repository , I showcase my skills in using Python , used in cybersecurity , simulations, mathematical models ,AI and ML models and in data analysis
 
-I have been working on creating python projects based on my interests; weather forecasting , ahibby of mine during Joburg summers when the thunderstorms pop up, the sudden thunder with refreshing rains cleaning Johannesburg`s air.
+I have been working on creating python projects based on my interests; weather forecasting , a hobby of mine during Joburg summers when the thunderstorms pop up, the sudden thunder with refreshing rains cleaning Johannesburg`s air.
 
 My repository is broken down into branches mainly ;
 
